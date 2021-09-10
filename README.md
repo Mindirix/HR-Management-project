@@ -1,5 +1,5 @@
 # HR-Management-project
-HR Management simple app that uses firebase to signup and signin .
+HR Management simple app that uses firebase user registration .
 
 this app is a simple practice project .
 
